@@ -9,7 +9,7 @@ name: Gheni Abla
 author: Gheni Abla
 
 # Short bio or description (displayed in the header)
-description: Build, Lead, Communicate 
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/gheni.jpeg
@@ -20,12 +20,25 @@ avatar: /images/gheni.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  dribbble:
   email: Gheni.Abla@gmail.com
-  github: https://github.com/gheniabla
-  linkedin: https://www.linkedin.com/in/gheniabla/
-  twitter: @gheniabla
+  facebook:
+  flickr:
+  github: github.com/gheniabla
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: rss
+  twitter: gheniabla
+  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  playconsole:
+  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-43339302-11
@@ -35,8 +48,8 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://gheniabla.com
-enforce_ssl: https://gheniabla.com
+url: http://www.amitmerchant.com/reverie
+enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -86,4 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
