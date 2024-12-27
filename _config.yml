@@ -20,10 +20,10 @@ avatar: /images/gheni.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  #dribbble:
   email: Gheni.Abla@gmail.com
-  facebook:
-  flickr:
+  #facebook:
+  #flickr:
   github: github.com/gheniabla
   instagram:
   linkedin: 
