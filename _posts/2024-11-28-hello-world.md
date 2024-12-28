@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  GenAI/LLM Practical Applications
-categories: [HTML,Code]
+categories: [Notebook,Code]
 ---
 
 The GenAI is general-purpose technology. It can have many practical applications.
